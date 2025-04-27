@@ -45,3 +45,13 @@ Fun to build, educational, and affordable!
 - Double-check LED and transistor orientation!
 
 # 🏁 Build it. Light it. Fly it! 🚀
+
+<img width="561" alt="image" src="https://github.com/user-attachments/assets/a12f4622-41e8-4bf3-8f2a-b8e0ea5416b3" />
+
+<img width="401" alt="image" src="https://github.com/user-attachments/assets/757cfdc2-c952-496f-a662-51143d3b9aab" />
+
+<img width="514" alt="image" src="https://github.com/user-attachments/assets/e638f5c7-d0ba-4932-8535-7ca0fca98834" />
+
+<img width="544" alt="image" src="https://github.com/user-attachments/assets/bed5b68a-945d-4317-8ca2-2172e73bdc82" />
+
+
