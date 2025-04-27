@@ -1,6 +1,9 @@
 # solder-milan
 solder workshop by hackclub
 
+slack id : U07NGDU5PPT
+slack username: milan
+
 # ✈️ Sukhoi Light-Sensitive LED Circuit
 
 ## 🚀 Overview
